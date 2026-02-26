@@ -9,11 +9,10 @@ A simple Python script to roll D&D dice **D4**,**D6**,**D8**,**D10**,**D12**,**D
 ## Requirements
 - Be sure to have python3 installed then run python3 on the current directory and have fun after typing python3 D6_D20.py unless you save it with a different name
 ## Trivia 
-I made this as a separate and more powerful version of my first project and i still wanted to write this using unix/pythonic/suckless philosophy 
+I made this as a separate and more powerful version of my first project not a replacement but I version for DND and i still wanted to write this using unix/pythonic/suckless philosophy 
 so it wont be an eyesore to understand,share,modify and run with as less ram as possible and i built this code in honour of my DM friend who's 
-creating a campaign thats currently longer than **550** pages and at the same time to solve dices falling down or bad throws.
-In the future if i see this code is worth it ill make an app that fuses all these codes in python that i wrote into a single massive yet clear and light 
-android app but feel free to create it by yourself as long you respect licensing
+creating a campaign thats currently going after years and at the same time to solve dice falling down or bad throws.
+In the future if i see this code is worth it ill make an app that fuses all these codes in python that i wrote into a single massive yet clear and light android app but feel free to create it by yourself as long you respect licensing
 <p align="center">
 <img src="screenshot.png" alt="D&D Dice Roller Screenshot" width"600">
 </p>
