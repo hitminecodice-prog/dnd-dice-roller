@@ -1,3 +1,6 @@
+![Python](https://img.shields.io)
+![License: GPL v3](https://img.shields.io)
+
 # D&D Dice Roller
 A simple Python script to roll D&D dice **D4**,**D6**,**D8**,**D10**,**D12**,**D20**
 ## Features
