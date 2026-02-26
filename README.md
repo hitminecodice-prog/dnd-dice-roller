@@ -1,5 +1,5 @@
 # D&D Dice Roller
-A simple Python script to roll D&D dice 'd4','d6','d8','d10','d12','d20'
+A simple Python script to roll D&D dice **D4**,**D6**,**D8**,**D10**,**D12**,**D20**
 ## Features
 - Can run all dice at once or each one individually
 - It shows **Critical Success** and **Critical Failure** on d20
