@@ -1,7 +1,8 @@
-<p align="left">
-  <img src="https://img.shields.io" alt="Python">
-  <img src="https://img.shields.io" alt="GPLv3 License">
-</p>
+![Python](https://img.shields.io)
+![GPLv3](https://img.shields.io)
+
+
+
 
 
 # D&D Dice Roller
