@@ -1,5 +1,5 @@
-![Python](https://img.shields.io)
-![License: GPL v3](https://img.shields.io)
+[![Python](https://img.shields.io)](https://www.python.org)
+[![License: GPL v3](https://img.shields.io)](https://www.gnu.org)
 
 # D&D Dice Roller
 A simple Python script to roll D&D dice **D4**,**D6**,**D8**,**D10**,**D12**,**D20**
